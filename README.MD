@@ -55,7 +55,7 @@ php -v
 ## 🚀 Pasos para la Ejecución
 1. **Clonar el repositorio**:
    ```sh
-   git clone https://github.com/tu-usuario/hola-mundo-php.git
+   git clone https://github.com/jeremyflores492TDS/proyectoPHP.git
    cd hola-mundo-php
    ```
 2. **Copiar los archivos al directorio de Apache**:
@@ -73,6 +73,6 @@ php -v
 
 ## ✍️ Datos del Autor
 - **Nombre:** Jeremy Flores  
-- **Correo:** jeremyflores@example.com  
+- **Correo:** 25001422@galileo.edu 
 - **Carnet:** 25001422
 
